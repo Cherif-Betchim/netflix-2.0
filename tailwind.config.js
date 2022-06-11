@@ -19,6 +19,7 @@ module.exports = {
             'blackBorder':'#222',
             'ddcorlor':'#303030',
             'footerText':'#757575',
+            'singUpbg': '#00004b'
         }, backgroundSize: {
             'auto': 'auto',
             'cover': 'cover',
