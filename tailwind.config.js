@@ -16,6 +16,9 @@ module.exports = {
             'silver': '#ecebff',
             'bubble-gum': '#ff77e9',
             'bermuda': '#78dcca',
+            'blackBorder':'#222',
+            'ddcorlor':'#303030',
+            'footerText':'#757575',
         }, backgroundSize: {
             'auto': 'auto',
             'cover': 'cover',
